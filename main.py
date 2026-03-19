@@ -40,27 +40,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-Dummy CSV Data
-Event,Price,Currency
-Concert A,500000,IDR
-Concert B,750000,IDR
-Concert C,650000,IDR
-Concert D,800000,IDR
-Concert E,550000,IDR
-
-sales_my.csv
-Event,Price,Currency
-Concert A,200,MYR
-Concert B,250,MYR
-Concert C,300,MYR
-Concert D,180,MYR
-Concert E,220,MYR
-
-sales_sg.csv
-Event,Price,Currency
-Concert A,120,SGD
-Concert B,150,SGD
-Concert C,180,SGD
-Concert D,130,SGD
-Concert E,160,SGD
+    
